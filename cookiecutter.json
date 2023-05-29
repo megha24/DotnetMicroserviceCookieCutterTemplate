@@ -1,4 +1,4 @@
 {
-  "Namespace": "ServiceNamespace",
-  "Projectname": "projectName"
+  "Namespace": "Example.Microservice",
+  "Projectname": "Product"
 }

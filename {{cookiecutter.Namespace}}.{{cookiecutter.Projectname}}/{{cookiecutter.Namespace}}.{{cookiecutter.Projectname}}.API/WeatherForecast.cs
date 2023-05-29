@@ -1,4 +1,4 @@
-namespace Example.WeatherForecast.API;
+namespace {{cookiecutter.Namespace}}.{{cookiecutter.Projectname}}.API;
 
 public class WeatherForecast
 {

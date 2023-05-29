@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Example.WeatherForecast.API.Controllers;
+namespace {{cookiecutter.Namespace}}.{{cookiecutter.Projectname}}.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]
